@@ -1,0 +1,2 @@
+Userscripts are javascript files that you run with extension like Tampermonkey(chrome) and Greasemonkey(Firefox).
+You can just delete the top part and run the javascript in a website if you feel like it, though.

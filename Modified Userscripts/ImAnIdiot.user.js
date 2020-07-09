@@ -1,5 +1,5 @@
 (function(){
-	var TEXT = 'im an idiot';
+	var TEXT = 'im an idiot. ';
 	Array.prototype.slice.call(document.querySelectorAll('input[type=text],textarea')).map(function(el){
 		el.onkeypress=function(evt){
 			var charCode = typeof evt.which == "number" ? evt.which : evt.keyCode;
